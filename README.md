@@ -58,6 +58,25 @@ Adjusts signal timing dynamically for smoother traffic flow.
 ✅ Mobile App for remote traffic control.
 ✅ AI-based Traffic Prediction for better congestion management.
 
+Important instructions: 
+1. keep any object infront of ultrasonic sonir away atleast 20 cm far
+2. after swiping rfid card wait for 30 seconds
+3. check circuit connections carefully
+
+Components Used:
+1. Solderless Breadboard
+2. Arduino mega 2560
+3. Arduino nano
+4. HC SR04 Ultrasonic sensor 4 Nos
+5. RFID RC522 module 
+6. RFID Tags 4 Nos
+7. Red, Green, Orange, LED 4 Each
+8. 220 Ohm Resistors 4Nos
+9. Signal light Module PCB
+10. 12V DC power supply
+11. Connecing wires
+
+
 📜 License: This project is open-source.
 
 📌 Contributions are welcome! Feel free to fork, improve, and submit pull requests. 🚀
